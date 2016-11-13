@@ -7,7 +7,7 @@
 
 **Date Completed:** March 25th, 2016
 
-**Running the program:** Open folder Grade 8 Day - Bilal, Daniyal, Caleb, Peter, Zak >AYJ Grade 8 Elective Day-setup.exe
+**Running the program:** Open AYJ Grade 8 Elective Day-setup.exe
 
 **Reading the code:** Open using Java Netbeans
 
