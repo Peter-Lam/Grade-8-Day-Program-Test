@@ -25,12 +25,17 @@
 * Print labels for name tags 
 
 **Files included:**
-* Grade 8 Day - Bilal, Daniyal, Caleb, Peter, Zak
-  * ContactEditor - Java Program Folder
-  * AYJ Grade 8 Elective Day-setup.exe - Installer for program
-  * Final Labels 2016.xlsx - Sample Input Labels
-  * Final label data 2016.xlsx - Sample Output after Linkup Labels
-  * Grade 8 Day Choose Your Electives (BCDPTZ) (Responses).xls - Example Responses
-  * Manual.url - Manual
-  * OutDataTest.xls - Sample Output Data
-  * Pseudo Code.docx - Pseudo Code
+* ContactEditor - Java Program Folder
+* AYJ Grade 8 Elective Day-setup.exe - Installer for program
+* Sample data
+ * Final Labels 2016.xlsx - Sample Input Labels
+ * Final label data 2016.xlsx - Sample Output after Linkup Labels
+ * Grade 8 Day Choose Your Electives (BCDPTZ) (Responses).xls - Example Responses
+ * OutDataTest.xls - Sample Output Data
+* Manual.url - Manual
+* Pseudo Code.docx - Pseudo Code
+
+**Extra Links:**
+Manual: https://docs.google.com/document/d/1co4tWsRIdgdlCs0DytrmPrZm_-bouyQ9mPmjwvC1U-I/edit
+Design Process and Planning: https://docs.google.com/document/d/1accCkhG6dpxlTyT5IrrM2xSm8JY4p-OTDV_aQCLRXIo/edit
+Survey Template: https://docs.google.com/forms/d/13lSmrz-6sZpXXAaeq7Ni6OryiIXqcclqnuVBrIGQ-Pg/edit
