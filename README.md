@@ -36,6 +36,9 @@
 * Pseudo Code.docx - Pseudo Code
 
 **Extra Links:**
+
 Manual: https://docs.google.com/document/d/1co4tWsRIdgdlCs0DytrmPrZm_-bouyQ9mPmjwvC1U-I/edit
+
 Design Process and Planning: https://docs.google.com/document/d/1accCkhG6dpxlTyT5IrrM2xSm8JY4p-OTDV_aQCLRXIo/edit
+
 Survey Template: https://docs.google.com/forms/d/13lSmrz-6sZpXXAaeq7Ni6OryiIXqcclqnuVBrIGQ-Pg/edit
