@@ -11,9 +11,9 @@
 
 **Reading the code:** Open using Java Netbeans
 
-**Description:** An application that is designed to be used in a highschool scenerio to sort and assign students into electives and specific time slots for a tour using information given through a survey. Can be adjusted to adapt to other scenrios like sorting employees into training or workshop groups. 
+**Description:**An application that is designed to be used in a high school scenario to sort and assign students into electives and specific time slots for a tour using information given through a survey. Can be adjusted to adapt to other scenarios like sorting employees into training or workshop groups.
 
-**Background:** Group project in Grade 12 that was designed to create a program that could be applied to a real life scenerio. The task was to find a more efficient solution to sorting students for a orientation day at the school. The previous method was manually done and took 40+ hours to complete by hand. The goal was to make it effecient and easy to understand for teachers to be able to use as well as create a well documented program for students in the fuutre to adjust if need be. 
+**Background:** Group project in Grade 12 that was designed to create a program that could be applied to a real life scenario. The task was to find a more efficient solution to sorting students for a orientation day at the school. The previous method was manually done and took 40+ hours to complete by hand. The goal was to make it efficient and easy to understand for teachers to be able to use as well as create a well documented program for students in the future to adjust if need be.
 
 **Steps:**
 * Use survey template given and make adjustments as needed
